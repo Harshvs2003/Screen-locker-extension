@@ -49,5 +49,5 @@ Report issues, suggest features, or share ideas [here](https://github.com/Harshv
 
 ## Author
 B.Tech 3rh Year Student  
-LinkedIn: www.linkedin.com/in/harshvardhan-sinha-3408a0290 | [GitHub](https://github.com/Harshvs2003)  
+[LinkedIn](www.linkedin.com/in/harshvardhan-sinha-3408a0290) | [GitHub](https://github.com/Harshvs2003)  
 Built with help from exploring extension development—thanks for the journey!
